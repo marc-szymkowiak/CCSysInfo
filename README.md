@@ -9,7 +9,7 @@
 ### Is the flag deactivated in the Configcat Dashboard, those informations are not avaiable for the user:
 <img width="690" alt="Screenshot 2022-06-14 at 23 46 38" src="https://user-images.githubusercontent.com/57388720/173697593-01addd16-cbc8-4367-bac9-a4999ce109b3.png">
 
-### How to get started
+# How to get started
 
 ## Create a Feature flag for your required feature flag
 ### Click on "Add Feature Flag"
