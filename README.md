@@ -1,8 +1,8 @@
 # CCInfoDemo
-## Just a quick demonstation of how to use configcats' feature flags to control features in an application
+## Just a quick demonstation of how to use the ConfigCat feature flags to control features in an application
 
 
-### By activating the set flag on the ConfigCats dashboard, you can enable the network information view:
+### By activating the set flag on the ConfigCat dashboard, you can enable the network information view:
 <img width="852" alt="Screenshot 2022-06-14 at 23 47 19" src="https://user-images.githubusercontent.com/57388720/173697559-13c3fa5c-d3e4-4c50-8249-2a5860e44bc8.png">
 
 
@@ -11,7 +11,7 @@
 
 # How to get started
 
-## Create a feature flag for the desired feature
+## Create a feature flag for the desired feature:
 ### Click on "Add Feature Flag"
 <img width="690" alt="Screenshot 2022-06-14 at 23 32 38" src="https://user-images.githubusercontent.com/57388720/173693598-493847cb-4392-464c-ab84-a55814bbe77a.png">
 
@@ -19,7 +19,7 @@
 
 <img width="699" alt="Screenshot 2022-06-14 at 23 33 30" src="https://user-images.githubusercontent.com/57388720/173693766-732af47c-8872-4c3f-a340-05fcf2c06ef4.png">
 
-### Default values are set as false.
+### Default values are set to False.
 
 <img width="1403" alt="Screenshot 2022-06-14 at 23 33 52" src="https://user-images.githubusercontent.com/57388720/173693281-072697bd-fe49-453c-8141-501f8e6acd46.png">
 
