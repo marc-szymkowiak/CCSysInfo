@@ -13,8 +13,8 @@ if __name__ == '__main__':
     hostname = socket.gethostname()
     ip = socket.gethostbyname(hostname)
 
-    print("Just a quick demonstrator to show the features ob ConfigCats' feature flag system")
-    print("You can enable/disable network informations via the feature flag used:")
+    print("Just a quick demonstrator to show the features of ConfigCats feature flag system")
+    print("You can enable/disable network information via the feature flag used")
     print(f"Type and CPU used in your system: {system.system} on {system.processor}")
     print(f"Architecture of your system: {system.machine}")
 if configcat_client.get_value('isNetworkInfoEnabled', False):
